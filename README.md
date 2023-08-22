@@ -3,7 +3,6 @@ A local Synthetic Data gen that generates synthetic training data using a LLM
 ## Overview
 This script is designed to convert bodies of text into a question and answer JSON format using the GPT-4 language model. The process involves extracting text from PDF files, tokenizing the text, generating questions and answers, and then saving the results in a JSON file.
 ## Prerequisites
-Python (version X.X.X)
 Required Python packages: langchain, PyPDF2, transformers, requests, pathlib, tqdm
 Setup
 Clone this repository to your local machine.
