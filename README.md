@@ -1,6 +1,5 @@
 # synthetic_data_generator
 A local Synthetic Data gen that generates synthetic training data using a LLM
-and Flask running locally
 ## Overview
 This script is designed to convert bodies of text into a question and answer JSON format using the GPT-4 language model. The process involves extracting text from PDF files, tokenizing the text, generating questions and answers, and then saving the results in a JSON file.
 ## Prerequisites
